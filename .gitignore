@@ -1,0 +1,24 @@
+# Sensitive information
+*.key
+*.secret
+*.credential
+*.password
+
+# PowerShell specific
+*.ps1.credential
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Logs
+*.log
+
+# Environment specific
+.env
+.env.*
+
+# System files
+.DS_Store
+Thumbs.db 
