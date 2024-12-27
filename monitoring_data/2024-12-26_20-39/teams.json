@@ -1,0 +1,14 @@
+[
+  {
+    "DisplayName": "Team LA",
+    "Description": "Team LA",
+    "Visibility": "public",
+    "IsArchived": null
+  },
+  {
+    "DisplayName": "BizBotz",
+    "Description": "BizBotz",
+    "Visibility": "private",
+    "IsArchived": null
+  }
+]
