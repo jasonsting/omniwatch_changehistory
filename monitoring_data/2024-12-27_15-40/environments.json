@@ -1,0 +1,12 @@
+[
+  {
+    "DisplayName": "bizbotz.ai (default) (orgdad047d3)",
+    "EnvironmentName": "Default-ee9faad4-3f2f-4e4f-9e70-2a1fc4970da8",
+    "IsDefault": true
+  },
+  {
+    "DisplayName": "bizbotz_dev (orgf23a6da8)",
+    "EnvironmentName": "f285bcd8-5c82-eca4-a086-4040ab7fac00",
+    "IsDefault": false
+  }
+]
